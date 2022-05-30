@@ -10,8 +10,8 @@ public class player : MonoBehaviour{
 
 
     private void Start(){
-        boxCollider = GetComponent<BoxCollider2D>();
-        anim = GetComponent<Animator>();
+        boxCollider = gameObject.GetComponent<BoxCollider2D>();
+        anim = gameObject.GetComponent<Animator>();
     }
 
     private void FixedUpdate(){
