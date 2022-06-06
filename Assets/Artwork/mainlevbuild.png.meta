@@ -221,7 +221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_5
+      name: SU_0
       rect:
         serializedVersion: 2
         x: 880
@@ -242,7 +242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_6
+      name: SU_1
       rect:
         serializedVersion: 2
         x: 896
@@ -263,7 +263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_7
+      name: SU_2
       rect:
         serializedVersion: 2
         x: 912
@@ -284,7 +284,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_8
+      name: SU_3
       rect:
         serializedVersion: 2
         x: 928
@@ -746,7 +746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_30
+      name: SU_4
       rect:
         serializedVersion: 2
         x: 880
@@ -767,7 +767,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_31
+      name: SU_5
       rect:
         serializedVersion: 2
         x: 896
@@ -788,7 +788,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_32
+      name: SU_6
       rect:
         serializedVersion: 2
         x: 912
@@ -809,7 +809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_33
+      name: SU_7
       rect:
         serializedVersion: 2
         x: 928
@@ -1271,7 +1271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_55
+      name: SU_8
       rect:
         serializedVersion: 2
         x: 880
@@ -1292,7 +1292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_56
+      name: SU_9
       rect:
         serializedVersion: 2
         x: 896
@@ -1313,7 +1313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_57
+      name: SU_10
       rect:
         serializedVersion: 2
         x: 912
@@ -1334,7 +1334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_58
+      name: SU_11
       rect:
         serializedVersion: 2
         x: 928
@@ -2132,7 +2132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_96
+      name: SU_12
       rect:
         serializedVersion: 2
         x: 880
@@ -2153,7 +2153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_97
+      name: SU_13
       rect:
         serializedVersion: 2
         x: 896
@@ -2174,7 +2174,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_98
+      name: SU_14
       rect:
         serializedVersion: 2
         x: 912
@@ -2195,7 +2195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_99
+      name: SU_15
       rect:
         serializedVersion: 2
         x: 928
@@ -3077,7 +3077,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_141
+      name: SU_16
       rect:
         serializedVersion: 2
         x: 880
@@ -3098,7 +3098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_142
+      name: SU_17
       rect:
         serializedVersion: 2
         x: 896
@@ -3119,7 +3119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_143
+      name: SU_18
       rect:
         serializedVersion: 2
         x: 912
@@ -3140,7 +3140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_144
+      name: SU_19
       rect:
         serializedVersion: 2
         x: 928
@@ -4064,7 +4064,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_188
+      name: SU_20
       rect:
         serializedVersion: 2
         x: 880
@@ -4085,7 +4085,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_189
+      name: SU_21
       rect:
         serializedVersion: 2
         x: 896
@@ -4106,7 +4106,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_190
+      name: SU_22
       rect:
         serializedVersion: 2
         x: 912
@@ -4127,7 +4127,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_191
+      name: SU_23
       rect:
         serializedVersion: 2
         x: 928
@@ -4967,7 +4967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_231
+      name: SU_24
       rect:
         serializedVersion: 2
         x: 880
@@ -4988,7 +4988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_232
+      name: SU_25
       rect:
         serializedVersion: 2
         x: 896
@@ -5009,7 +5009,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_233
+      name: SU_26
       rect:
         serializedVersion: 2
         x: 912
@@ -5030,7 +5030,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainlevbuild_234
+      name: SU_27
       rect:
         serializedVersion: 2
         x: 928
@@ -21630,7 +21630,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      crypt_13: 1289862063
+      wall_12: -964889500
       mainlevbuild_166: -994814218
       wall_45: -1372974654
       mainlevbuild_288: -2066790805
@@ -21662,7 +21662,6 @@ TextureImporter:
       mainlevbuild_1011: 658283276
       PE_24: -96717338
       mainlevbuild_791: -934200281
-      mainlevbuild_144: 1730507524
       wall_42: 1385608843
       wall_15: 1365844829
       wallB_21: -822596957
@@ -21703,12 +21702,12 @@ TextureImporter:
       mainlevbuild_846: 931257301
       mainlevbuild_627: 352084675
       mainlevbuild_23: 13664331
+      SU_19: 1730507524
       mainlevbuild_918: -1311982762
       wall_1: 449023942
       wall_72: 1907161258
-      mainlevbuild_141: 1399186236
-      mainlevbuild_0: 987535107
       hole_13: -1223550012
+      mainlevbuild_0: 987535107
       wall_65: -1724196467
       mainlevbuild_203: -311770309
       hole_47: -1850477545
@@ -21720,6 +21719,7 @@ TextureImporter:
       Ceal_18: 646290250
       prison_11: -1333112832
       mainlevbuild_749: 565265033
+      SU_4: -1262157475
       RGF_5: 1411785374
       wallB_3: -1055601521
       mainlevbuild_174: 836455907
@@ -21735,14 +21735,17 @@ TextureImporter:
       mainlevbuild_47: 1305026101
       wallV_12: 1691049603
       mainlevbuild_205: -1333945928
-      mainlevbuild_7: 3417553
+      SU_3: -23314731
       prison_18: 592558982
+      SU_5: 1590527176
       mainlevbuild_907: 1537387236
       mainlevbuild_1009: -1415657391
       prison_27: 1455011334
       hole_39: 903891072
       mainlevbuild_807: -71607914
       crypt_65: 998547233
+      SU_7: 532380903
+      SU_10: 116520660
       mainlevbuild_524: 1275210696
       wallB_7: 115994431
       pit_10: 1394010331
@@ -21757,14 +21760,12 @@ TextureImporter:
       mainlevbuild_1016: -1912977274
       pit_7: -808169885
       mainlevbuild_220: -56635223
-      mainlevbuild_143: 823044799
       mainlevbuild_973: 1348099416
       mainlevbuild_139: 875029998
       doors_6: -647224971
       mainlevbuild_370: -346458719
-      mainlevbuild_33: 532380903
       wallVE_13: 378585610
-      mainlevbuild_5: -1685926934
+      mainlevbuild_5: -477162560
       mainlevbuild_677: -1116707409
       mainlevbuild_809: 897549791
       hole_32: -1583282561
@@ -21780,9 +21781,9 @@ TextureImporter:
       mainlevbuild_178: -776838493
       mainlevbuild_1004: -2146097978
       wallB_17: -1187938064
-      hole_52: 19533614
-      wallB_18: 2032430266
       crypt_58: -794491875
+      wallB_18: 2032430266
+      hole_52: 19533614
       prison_12: -2027907374
       mainlevbuild_774: -768191992
       mainlevbuild_785: -228495641
@@ -21799,13 +21800,13 @@ TextureImporter:
       mainlevbuild_878: -1411841864
       pit_8: -795872692
       mainlevbuild_77: 1831988004
-      mainlevbuild_794: -1611050107
+      mainlevbuild_185: -1999056911
       mainlevbuild_128: -29129246
       prison_47: -1496549382
-      mainlevbuild_185: -1999056911
-      hole_31: -2086252340
-      mainlevbuild_843: -601816942
       door_6: -1080910642
+      mainlevbuild_794: -1611050107
+      mainlevbuild_843: -601816942
+      hole_31: -2086252340
       RGF_14: -42053725
       mainlevbuild_226: 1340877376
       crypt_32: -1517303811
@@ -21814,6 +21815,7 @@ TextureImporter:
       wallB_16: -1914338033
       mainlevbuild_845: -1494247525
       hole_28: -277048059
+      SU_24: 964663216
       PE_3: -2099044453
       hole_25: 1769653654
       crypt_28: 1238195918
@@ -21847,9 +21849,8 @@ TextureImporter:
       wall_54: -1700322088
       mainlevbuild_778: 1917531708
       mainlevbuild_838: -551262554
-      mainlevbuild_142: -581086438
-      mainlevbuild_996: -366316790
       wall_71: -249113356
+      mainlevbuild_996: -366316790
       mainlevbuild_700: -362264212
       doors_13: 232314126
       mainlevbuild_874: -210727992
@@ -21882,7 +21883,7 @@ TextureImporter:
       prison_6: 1382992222
       mainlevbuild_941: 1310584586
       wall_40: 1744881774
-      mainlevbuild_99: -397575946
+      SU_22: 1714564493
       mainlevbuild_873: 601651434
       mainlevbuild_698: -1262307852
       mainlevbuild_781: 1813868048
@@ -21891,7 +21892,6 @@ TextureImporter:
       cryptM_6: -1753025238
       mainlevbuild_994: -54147521
       mainlevbuild_105: -772763957
-      mainlevbuild_57: 116520660
       mainlevbuild_770: -1965760714
       crypt_45: -1760997670
       hole_3: 197860070
@@ -21933,6 +21933,7 @@ TextureImporter:
       wall_58: 1594284378
       hole_45: -141660597
       crypt_22: 1366032434
+      SU_20: -191984086
       mainlevbuild_869: 1928989346
       mainlevbuild_799: -1345149912
       door_2: -1709447171
@@ -21966,6 +21967,7 @@ TextureImporter:
       mainlevbuild_473: 1719203350
       mainlevbuild_626: -268355063
       mainlevbuild_767: -856514540
+      SU_16: 1399186236
       mainlevbuild_812: 1438441650
       doors_14: 330124995
       Ceal_15: 192816381
@@ -21988,6 +21990,7 @@ TextureImporter:
       prison_9: 1398550685
       mainlevbuild_866: 1969960218
       prison_39: 1677918552
+      SU_0: -1685926934
       wall_9: -1489621030
       mainlevbuild_311: -1747791311
       Ceal_21: -1638795269
@@ -22000,7 +22003,6 @@ TextureImporter:
       Ceal_20: 1121765070
       mainlevbuild_737: -1144623229
       mainlevbuild_586: 181752440
-      mainlevbuild_189: -1468313350
       mainlevbuild_783: -263345277
       mainlevbuild_820: 1355166033
       mainlevbuild_1002: 2103163336
@@ -22022,6 +22024,7 @@ TextureImporter:
       mainlevbuild_934: 1111041385
       mainlevbuild_983: 1042798625
       mainlevbuild_85: -1262064301
+      SU_6: -2146130661
       mainlevbuild_675: 519802301
       mainlevbuild_947: 2056789243
       mainlevbuild_222: 1741736692
@@ -22032,7 +22035,7 @@ TextureImporter:
       door_1: 832320311
       prison_7: -1745306408
       mainlevbuild_890: 1722278923
-      mainlevbuild_234: -1829245943
+      SU_12: -440213084
       mainlevbuild_782: 1813990412
       mainlevbuild_810: -1682744501
       mainlevbuild_754: -1927862108
@@ -22042,6 +22045,7 @@ TextureImporter:
       mainlevbuild_987: -1399606630
       mainlevbuild_727: 25211867
       crypt_46: 846635229
+      SU_14: -428619357
       mainlevbuild_159: 1088831815
       wallB_4: 1165257478
       prison_42: -1649556488
@@ -22078,6 +22082,7 @@ TextureImporter:
       mainlevbuild_479: -1930335311
       crypt_21: 686050383
       mainlevbuild_1020: 1753577950
+      SU_23: 1986159325
       mainlevbuild_832: -933659131
       prison_14: 282469037
       mainlevbuild_284: 1450394937
@@ -22127,6 +22132,7 @@ TextureImporter:
       wallVE_10: -307926936
       mainlevbuild_797: 2062048033
       mainlevbuild_828: -1757312199
+      SU_1: 1500223566
       mainlevbuild_80: 635544152
       mainlevbuild_721: -1837859765
       mainlevbuild_481: 309433740
@@ -22151,7 +22157,6 @@ TextureImporter:
       Ceal_6: 1818526960
       empty: -832766464
       mainlevbuild_345: 351492988
-      mainlevbuild_97: -246844207
       mainlevbuild_864: -484126374
       crypt_43: 1924337862
       mainlevbuild_183: 1463601741
@@ -22172,8 +22177,9 @@ TextureImporter:
       mainlevbuild_982: 48206529
       mainlevbuild_836: -1256795402
       prison_48: -1816743655
+      SU_2: 3417553
+      SU_17: -581086438
       pit_9: -795872692
-      mainlevbuild_56: -1726700724
       prison_10: -29566031
       mainlevbuild_516: 962257355
       mainlevbuild_805: 367825051
@@ -22186,19 +22192,19 @@ TextureImporter:
       mainlevbuild_625: -806094687
       prison_46: 1812352884
       crypt_36: -548968987
-      mainlevbuild_149: -2090897120
+      mainlevbuild_28: -986176939
       mainlevbuild_814: -351332262
       mainlevbuild_339: -335703595
-      mainlevbuild_28: -986176939
+      mainlevbuild_149: -2090897120
       cryptM_19: 2027027661
+      SU_13: -246844207
       mainlevbuild_372: -23444793
-      mainlevbuild_188: -191984086
-      mainlevbuild_914: 60508030
       wall_38: 1859389244
+      mainlevbuild_914: 60508030
+      crypt_33: 1825030797
       hole_5: -1980040841
       mainlevbuild_1008: 330123802
       mainlevbuild_315: 964363051
-      crypt_33: 1825030797
       mainlevbuild_154: 992909093
       crypt_20: -634909602
       mainlevbuild_287: 1394979986
@@ -22210,6 +22216,7 @@ TextureImporter:
       mainlevbuild_989: 1265003093
       mainlevbuild_187: -1110567224
       prison_22: -243593958
+      SU_11: 298641205
       mainlevbuild_430: 110255869
       hole_7: -1327536860
       mainlevbuild_895: -1944602102
@@ -22225,13 +22232,12 @@ TextureImporter:
       PE_11: -683513097
       wallVE_5: 212947400
       mainlevbuild_170: -1745507644
-      mainlevbuild_191: 1986159325
       wallV_4: 130226145
       mainlevbuild_517: 554392025
       wallV_1: 916495188
-      wallV_6: 476373471
-      wall_55: 622796530
       Ceal_: -87450585
+      wall_55: 622796530
+      wallV_6: 476373471
       mainlevbuild_43: 896464546
       mainlevbuild_795: 1663667787
       mainlevbuild_107: -1234166874
@@ -22249,7 +22255,6 @@ TextureImporter:
       mainlevbuild_806: 54045160
       mainlevbuild_340: 922665078
       mainlevbuild_761: -1497275683
-      mainlevbuild_55: -334546294
       hole_24: 602975866
       mainlevbuild_773: -755321159
       hole_35: 1741141415
@@ -22259,6 +22264,7 @@ TextureImporter:
       mainlevbuild_790: 1834995420
       mainlevbuild_167: 1120869848
       mainlevbuild_478: 1746701562
+      SU_8: -334546294
       wallB_2: 458750563
       wallV_0: 916495188
       wallV_11: -951243405
@@ -22289,13 +22295,13 @@ TextureImporter:
       mainlevbuild_1023: -1129683611
       mainlevbuild_933: -2017582566
       PE_0: 247255165
+      SU_18: 823044799
       hole_37: 1669440832
       mainlevbuild_705: 813253705
       mainlevbuild_82: -323236994
       mainlevbuild_286: 211878241
       crypt_40: 299021406
       mainlevbuild_842: 470609756
-      mainlevbuild_231: 964663216
       mainlevbuild_155: 1004608494
       hole_8: 113184410
       hole_21: 691154296
@@ -22310,6 +22316,7 @@ TextureImporter:
       mainlevbuild_256: -1070964260
       mainlevbuild_112: -760155392
       PE_5: -753394350
+      SU_21: -1468313350
       mainlevbuild_894: 1790335489
       mainlevbuild_81: -1316257142
       mainlevbuild_429: -975655208
@@ -22324,9 +22331,9 @@ TextureImporter:
       mainlevbuild_122: -590317955
       wallVE_12: 930625617
       mainlevbuild_29: -119851062
-      mainlevbuild_186: -59673008
-      mainlevbuild_32: -2146130661
       GFST_2: -1299859856
+      mainlevbuild_186: -59673008
+      SU_25: 437844685
       mainlevbuild_86: -1646899910
       mainlevbuild_137: -929581364
       mainlevbuild_771: -1456291606
@@ -22340,12 +22347,11 @@ TextureImporter:
       mainlevbuild_800: -1496971147
       mainlevbuild_881: 414156904
       GFST_1: 1614222011
-      mainlevbuild_190: 1714564493
+      Ceal_14: -1445211552
       mainlevbuild_730: 1838100949
       mainlevbuild_136: -1440220249
       mainlevbuild_960: -652454758
       prison_41: -1399110950
-      Ceal_14: -1445211552
       wall_68: 1191210860
       crypt_37: -629478636
       wallV_15: -1629911308
@@ -22365,7 +22371,6 @@ TextureImporter:
       mainlevbuild_129: -982062993
       mainlevbuild_435: -591490189
       prison_33: -858398850
-      mainlevbuild_30: -1262157475
       hole_16: -1464535361
       mainlevbuild_48: -81426043
       mainlevbuild_477: 1360313728
@@ -22406,7 +22411,6 @@ TextureImporter:
       wallB_10: -1014938580
       mainlevbuild_4: 1698204573
       GFC_3: -1308814327
-      mainlevbuild_31: 1590527176
       mainlevbuild_746: 1319521563
       mainlevbuild_1006: 28810997
       mainlevbuild_199: -1456809693
@@ -22437,6 +22441,7 @@ TextureImporter:
       mainlevbuild_747: -1337624529
       mainlevbuild_49: 1484239089
       crypt_4: -2119238244
+      SU_9: -1726700724
       mainlevbuild_849: -1921251563
       mainlevbuild_173: -1559315284
       mainlevbuild_1005: 898723943
@@ -22450,7 +22455,6 @@ TextureImporter:
       mainlevbuild_93: 2080778897
       mainlevbuild_738: 864112656
       mainlevbuild_720: -1938415519
-      mainlevbuild_8: -23314731
       cryptM_22: 2116413254
       wallVE_11: 930625617
       wallV_2: -1728617768
@@ -22476,7 +22480,6 @@ TextureImporter:
       mainlevbuild_939: 2042200952
       GFS_5: -784066438
       mainlevbuild_196: 1056743706
-      mainlevbuild_98: -428619357
       wall_11: -1264732733
       mainlevbuild_1012: -1521053477
       crypt_8: -816162363
@@ -22492,11 +22495,11 @@ TextureImporter:
       crypt_41: -553989990
       mainlevbuild_902: -658616541
       doors_12: -574701628
+      SU_15: -397575946
       prison_43: 1056277529
       wall_20: -1264187670
       mainlevbuild_217: 139667942
       GFS_3: 1590707029
-      mainlevbuild_58: 298641205
       mainlevbuild_788: -194519640
       GFR_2: 422868431
       wallV_5: -2027086833
@@ -22506,14 +22509,12 @@ TextureImporter:
       pit_2: 307065232
       mainlevbuild_954: 171365497
       crypt_67: -840193373
-      mainlevbuild_96: -440213084
       mainlevbuild_1010: -1334217794
       crypt_61: 2099810255
       mainlevbuild_916: -6181951
       mainlevbuild_726: -600591118
       RGF_3: 2034289827
       PE_8: -1861137138
-      mainlevbuild_6: 1500223566
       wallVE_14: -1377119057
       mainlevbuild_46: 1675893004
       mainlevbuild_777: 743784918
@@ -22541,9 +22542,9 @@ TextureImporter:
       mainlevbuild_860: -1348289113
       GFS_4: -1229172739
       mainlevbuild_683: -1494059013
+      SU_26: 1431546939
       mainlevbuild_432: 1583996988
       mainlevbuild_130: 234427059
-      mainlevbuild_232: 437844685
       mainlevbuild_912: 1196667057
       mainlevbuild_870: -270779180
       mainlevbuild_75: -1433545443
@@ -22564,6 +22565,7 @@ TextureImporter:
       mainlevbuild_957: 1385683280
       crypt_7: 1107911991
       mainlevbuild_739: -1862579382
+      SU_27: -1829245943
       mainlevbuild_862: -2139118500
       mainlevbuild_40: -1265659259
       mainlevbuild_474: -630893686
@@ -22610,7 +22612,6 @@ TextureImporter:
       mainlevbuild_27: 351073359
       mainlevbuild_223: 2123794440
       hole_49: 1389709882
-      mainlevbuild_233: 1431546939
       GFC_0: 755337870
       wallB_8: -658321050
       mainlevbuild_965: -1397332950
@@ -22655,7 +22656,7 @@ TextureImporter:
       cryptM_7: -1753025238
       mainlevbuild_728: 2028432507
       wall_52: -538598668
-      wall_12: -964889500
+      crypt_13: 1289862063
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
