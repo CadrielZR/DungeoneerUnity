@@ -13,10 +13,9 @@ GameObject:
   - component: {fileID: 3123235069631083148}
   - component: {fileID: 3123235069631083147}
   - component: {fileID: 3123235069631083146}
-  - component: {fileID: 3123235069631083145}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: hero
-  m_TagString: Untagged
+  m_TagString: Fighter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -100,6 +99,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a30d64296a1887c4cbf7cc605a6702a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hitpoint: 10
+  maxHitpoint: 10
+  pushRecoverySpeed: 0.2
 --- !u!61 &3123235069631083147
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -146,24 +148,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!50 &3123235069631083145
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3123235069631083191}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 999
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 7
